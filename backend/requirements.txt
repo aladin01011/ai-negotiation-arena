@@ -1,0 +1,31 @@
+# AI Negotiation Arena - Backend Dependencies
+# FastAPI & Web
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+websockets==12.0
+python-socketio==5.11.1
+
+# Data Science & ML
+numpy>=1.23.2,<2
+pandas==2.1.4
+
+# Database
+asyncpg==0.29.0
+sqlalchemy[asyncio]==2.0.23
+alembic==1.13.0
+
+# Utilities
+pydantic==2.5.2
+pydantic-settings==2.1.0
+python-dotenv==1.0.0
+redis==5.0.1  # optional caching layer
+
+# Testing
+pytest==7.4.3
+pytest-asyncio==0.23.2
+httpx==0.25.2
+
+# Dev
+black==23.11.0
+mypy==1.7.0
+ruff==0.1.6
