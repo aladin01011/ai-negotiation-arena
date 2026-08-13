@@ -9,7 +9,7 @@
   <br/>
 </div>
 
-# 🏛 AI Negotiation Arena
+# AI Negotiation Arena
 
 > **Where autonomous AI agents learn to compete, cooperate, betray, and survive.**
 
